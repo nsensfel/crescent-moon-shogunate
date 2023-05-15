@@ -15,3 +15,23 @@ Socialites:
       If applied during a Harvest Mandate, Socialites do not collect the 1 coin.
       If applied during a Train Mandate, Socialites are second to choose a card,
       and do not benefit from the ally discount.
+
+???:
+   Income: ???
+   Effect:
+      This Clan's Units cannot be Killed in Provices where this Clan owns at
+      least one Stronghold.
+
+???:
+   Income: ???
+   Effect:
+      This Clan can Move 2 of its Units from a Province immediately after a
+      Battle took place in it.
+
+???:
+   Income: ???
+   Effect:
+      Total Force reduced by Number of Monster in Province.
+      ???
+
+

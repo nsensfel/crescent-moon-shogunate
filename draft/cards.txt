@@ -1,0 +1,34 @@
+???:
+   Price: ???
+   Category: ???
+   Season: ???
+   Effect:
+      After losing Battle Resolution, you may Kill an opposing Unit of your
+      choice in this Province.
+   Note: This counts for the Poets.
+
+???:
+   Price: ???
+   Category: ???
+   Season: ???
+   Effect:
+      At the start of a Battle, you may place one of your coins under a Unit to
+      make it Unkillable (yours or someone else's).
+
+???:
+   Price: ???
+   Category: ???
+   Season: ???
+   Effect: ???
+      You may offer replacing any of your Bushis on the Map with another Clan's,
+      as part of a Trade with them.
+
+Racket:
+   Price: ???
+   Category: ???
+   Season: ???
+   Effect:
+      Collect 1 coin from all Players in the Province when you win Harvest
+      Rewards.
+
+
