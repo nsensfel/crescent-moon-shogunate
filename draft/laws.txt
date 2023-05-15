@@ -88,3 +88,13 @@ Laws:
          Ally Force combines during Battle Resolution. Tile is still gained
          by whomever has most Force after Battle Resolution.
       Options: Yay, Nay.
+
+   Free Market:
+      Effect: Players may Trade Season Cards.
+      Options: Yay, Nay.
+
+   National Reserves:
+      Effect:
+         Season Cards from previous Seasons can still be bought, but cost 2
+         extra coins.
+      Options: Yay, Nay.

@@ -1,6 +1,4 @@
 Notes:
-- Each Clans needs a collection of tokens with their color, refered to as Clan
-   Markers.
 - Deeds may only be performed once per game.
 - Shared Deeds are meant to encourage players to communicate and plan together,
    which may of course result in some interesting betrayals.
@@ -9,10 +7,12 @@ Notes:
    remembered through history.
 
 Setup:
-   - Give each Clan their Markers.
-   - TBD: all deeds available vs random draw of a certain amount vs random draw
-      of a certain amount per category vs some always available and others
-      randomly drawn.
+   - Put the Deck of Deeds next to Season Cards. Do not remove during season.
+
+Players may consult the Deck of Deeds at any moment.
+
+Once a Deed has been performed, remove it from the Deck of Deeds and put it back
+in the box.
 
 Shared Deeds (rewards all participating Clans):
    Pourparler:
@@ -30,6 +30,39 @@ Shared Deeds (rewards all participating Clans):
          Battle Resolution between two or more non-allied armies, each of which
          has a force of 10 or more.
       Reward: 15 Victory Points (only for Clans with armies of 10+ force)
+
+   Of One Body and Mind:
+      Condition:
+         Spring is past, and two Allied Clans each have at least 3 units on the
+         map, such they have the same number of Unit of each type in all
+         Provinces and Temples.
+      Reward: 12 Victory Points.
+
+   Shared Houses:
+      Condition:
+         Two Allied Clans have all of their Strongholds on the Map, and the same
+         number of Strongholds in each province. Dragonfly Clan cannot claim
+         this Deed.
+      Reward: 15 Victory Points.
+
+   Unsetting Sun:
+      Condition:
+         Two Allied Clans have all of their Strongholds on the Map, such that
+         each Province has at least one Stronghold from either. Dragonfly Clan
+         cannot claim this Deed.
+      Reward: 20 Victory Points.
+
+   Until the End:
+      Condition:
+         Clans have kept the same Alliance through every Season, when others
+         have changed theirs.
+      Reward: 10 Victory Points.
+
+   Luck, Skills, and Honor:
+      Condition:
+         A Battle start with all involved Clans having the same number of unit
+         of each type, the same number of Coins, and the same number of Ronins.
+      Reward: 7 Victory Points.
 
 Individual Deeds:
    Through Hearts Alone:
@@ -50,3 +83,28 @@ Individual Deeds:
          This is actually doable fairly easily when facing an opponent that has
          very few coins and needs a specific strategy to win. But it also adds
          more consideration to that otherwise predicable situation.
+
+   Proven Worth:
+      Condition: Won a battle involving at least one unit from every Player.
+      Reward: 5 Victory Points
+
+   Redemption:
+      Condition:
+         Move from the bottom of the Honor Track to its top in a single battle.
+      Reward: 3 Victory Points
+      Note: Easy to achieve.
+
+   The Darker Path:
+      Condition: Kill an Oni from a Clan with more Honor than you.
+      Reward: 3 Victory Points
+
+   World Domination:
+      Condition: Currently control every Province.
+      Reward: 15 Victory Points
+
+   The Legendary Hero:
+      Condition: Win Battle with single Unit, no Ronins, involving a Clan
+         which had more Force in the Province at the start of the War, and more
+         Coins at the start of the Battle.
+      Reward: 10 Victory Points
+      Note: Can be done through Hostage, and various effects.
