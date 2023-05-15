@@ -11,11 +11,11 @@ It proposes:
 
 ## NOTE TO CONTRIBUTORS
 Please ensure no proposed content features any trademarked or copyrighted
-elements beyond undisputable fair use.
+elements beyond undisputable fair use (e.g. nominative fair use).
 
 *Examples of forbidden elements:*
 - Images from the base game (e.g. coin icon, clan symbols, manual background).
-- Excerpts from the base game (e.g. verbatim).
+- Excerpts from the base game (e.g. verbatim paragraphs from the base game manual).
 
 *Examples of allowed elements:*
 - Names from the base game (e.g. "Coin", "Fox Clan", "Marshal Mandate").
