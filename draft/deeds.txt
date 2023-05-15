@@ -1,0 +1,52 @@
+Notes:
+- Each Clans needs a collection of tokens with their color, refered to as Clan
+   Markers.
+- Deeds may only be performed once per game.
+- Shared Deeds are meant to encourage players to communicate and plan together,
+   which may of course result in some interesting betrayals.
+- Individual Deeds are meant to acknowledge interesting plays.
+- Thematically, the Clans earn points because such Deeds ensure they are
+   remembered through history.
+
+Setup:
+   - Give each Clan their Markers.
+   - TBD: all deeds available vs random draw of a certain amount vs random draw
+      of a certain amount per category vs some always available and others
+      randomly drawn.
+
+Shared Deeds (rewards all participating Clans):
+   Pourparler:
+      Condition: Two or more opposing Daimyos, alone in a province.
+      Reward: 10 Victory Points.
+
+   Schism:
+      Condition:
+         Two or more Shintos of a Clan alone in facing only one or more opposing
+         Kami.
+      Reward: 10 Victory Points.
+
+   The Great War:
+      Condition:
+         Battle Resolution between two or more non-allied armies, each of which
+         has a force of 10 or more.
+      Reward: 15 Victory Points (only for Clans with armies of 10+ force)
+
+Individual Deeds:
+   Through Hearts Alone:
+      Condition: Win a battle without spending any coin.
+      Reward: 5 Victory Points
+
+   A Clan of Nomads:
+      Condition: Reach Winter without a single Province Tile
+      Reward: 20 Victory Points
+      Note:
+         This is a lot of points, but also very hard to pull off if people
+         see you are going for it.
+
+   Trust the Seers:
+      Condition: Won all performed actions of a battle through ties.
+      Reward: 7 Victory Points
+      Note:
+         This is actually doable fairly easily when facing an opponent that has
+         very few coins and needs a specific strategy to win. But it also adds
+         more consideration to that otherwise predicable situation.

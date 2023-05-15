@@ -1,0 +1,17 @@
+Wandering Monks:
+   Income: ???
+   Effect: Shintos on temples may change temple as part of a move action.
+
+Theocrates:
+   Income: ???
+   Setup: Remove Clan's Daimyo from the game.
+   Effect: Shintos are Daimyos.
+
+Socialites:
+   Income: ???
+   Effect:
+      May pay 2 coins to enjoy ally benefits of current mandate.
+      One of the 2 coins is given to the current player.
+      If applied during a Harvest Mandate, Socialites do not collect the 1 coin.
+      If applied during a Train Mandate, Socialites are second to choose a card,
+      and do not benefit from the ally discount.

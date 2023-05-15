@@ -1,0 +1,90 @@
+- After each Kami Phase, the Clan with highest Honor draws 4 Laws, chooses one
+   for all to vote on. Puts back the other 3 on top of the pile.
+- Each currently controlled Province grants 1 Vote.
+- All Laws have an option to not do anything, which can be voted for.
+
+Notes:
+
+Laws:
+   Ruling Bandits:
+      Effect: Ties are won by lowest Honor.
+      Options: Yay, Nay.
+
+   Emergency Harvest:
+      Effect:
+         Immediately win Harvest rewards of uncontested Provinces you
+         control.
+      Options: Yay, Nay.
+
+   Inflation:
+      Effect: Price of cards increased by one.
+      Options: Yay, Nay.
+
+   Rebate:
+      Effect: Price of cards decreased by one.
+      Options: Yay, Nay.
+
+   Safety Measures:
+      Effect: Price of castles increased by one.
+      Options: Yay, Nay.
+
+   Cheaper Materials:
+      Effect: Price of castles decreased by one.
+      Options: Yay, Nay.
+
+   Military Service:
+      Effect: One extra unit can be summoned during Recruit mandate.
+      Options: Yay, Nay.
+
+   Emergency Marshal:
+      Effect: 1 Move action for all clans, resolved in turn order.
+      Options: Yay, Nay.
+
+   Pirates:
+      Effect: Close one Sea Route.
+      Options: Sea Route to be closed, Nay.
+
+   Build the Capital:
+      Effect: Clans may immediately build one free castle on chosen Province.
+      Options: Province, Nay.
+
+   Reinforcement from Home:
+      Effect: Immediately summon 1 Bushi in Home Province.
+      Options: Yay, Nay.
+
+   Militia:
+      Effect: Each Province Tile is worth 1 Force in the associated province.
+      Options: Yay, Nay.
+      Note: Not so great for battles, but good for voting and harvest.
+
+   Reform:
+      Effect: Revoke a Law.
+      Options: Law, Nay.
+      Note: Have multiple copies of that one.
+
+   Rumors of Betrayal:
+      Effect: All Alliances are broken for the Season.
+      Options: Yay, Nay.
+
+   Golden Age:
+      Effect: Immediately collect Seasonal Income.
+      Options: Yay, Nay.
+
+   Monetary Requisition:
+      Effect: All Clans lose 3 coins.
+      Options: Yay, Nay.
+
+   Crisis of Faith:
+      Effect: All Kamis are sent back to their Shrine.
+      Options: Yay, Nay.
+      Note: Will allow them to be summoned again during next Kami phase.
+
+   Strength of the Ancestors:
+      Effect: Gain 1 Force in Home Province.
+      Options: Yay, Nay.
+
+   Joint Exercises:
+      Effect:
+         Ally Force combines during Battle Resolution. Tile is still gained
+         by whomever has most Force after Battle Resolution.
+      Options: Yay, Nay.
